@@ -12,7 +12,6 @@ joblib
 networkx
 # file formats
 pyhdf
-hdf5
 h5py
 netcdf4
 openpyxl
